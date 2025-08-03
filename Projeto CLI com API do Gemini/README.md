@@ -24,7 +24,7 @@ Siga estes passos para configurar e executar a sua CLI.
 
 [](https://youtu.be/8PJFyPdj3U8)
 
-> **Clique na imagem acima para assistir a um breve vídeo demonstrando a instalação e o uso da CLI.** > _(Substitua `\<SEU_ID_DO_VIDEO_AQUI>` pelo ID do seu vídeo no YouTube)_
+> **Clique na imagem acima para assistir a um breve vídeo demonstrando a instalação e o uso da CLI.** > _(Substitua `\<8PJFyPdj3U8>` pelo ID do seu vídeo no YouTube)_
 
 ### 1\. Pré-requisitos
 
