@@ -1,1 +1,92 @@
-# mentesquemovem-projeto1
+# CLI com Gemini / IA
+
+## Descrição
+
+Uma simples ferramenta de linha de comando (CLI) construída com Node.js que interage com a API do Google Gemini para gerar respostas de inteligência artificial diretamente no terminal.
+
+## Funcionalidades
+
+- **Geração de Respostas**: Envia um prompt de texto para a API do Gemini e exibe a resposta.
+- **Configuração Segura**: Gerencia a chave de API usando variáveis de ambiente (`.env`).
+
+## Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [API do Google Gemini](https://ai.google.dev/)
+
+## Como Instalar e Usar
+
+Siga estes passos para configurar e executar a sua CLI.
+
+### Veja como funciona\!
+
+[](https://youtu.be/8PJFyPdj3U8)
+
+> **Clique na imagem acima para assistir a um breve vídeo demonstrando a instalação e o uso da CLI.** > _(Substitua `\<SEU_ID_DO_VIDEO_AQUI>` pelo ID do seu vídeo no YouTube)_
+
+### 1\. Pré-requisitos
+
+Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina.
+
+### 2\. Instalação
+
+Abra o terminal, navegue até a pasta do projeto e instale as dependências:
+
+```bash
+npm install
+```
+
+### 3\. Configuração da Chave de API
+
+Você precisa de uma chave de API do Google AI Studio.
+
+- Crie um arquivo chamado **`.env`** na raiz do seu projeto.
+- Dentro do arquivo, adicione sua chave da seguinte forma:
+
+<!-- end list -->
+
+```
+GOOGLE_API_KEY=<sua-chave-aqui>
+```
+
+**Importante:** Nunca compartilhe sua chave de API publicamente. O arquivo `.env` não deve ser enviado para repositórios como o GitHub.
+
+### 4\. Como Usar
+
+Agora você pode usar sua CLI\! Digite o comando `node` seguido pelo nome do seu arquivo e o prompt entre aspas duplas:
+
+```bash
+node <nome-do-seu-arquivo.js> "Qual é a capital da França?"
+```
+
+O resultado gerado pela IA será exibido diretamente no seu terminal.
+
+## Exemplo de Uso
+
+```bash
+# Exemplo de comando
+node main.js "Explique o que é fotossíntese de forma simples"
+
+# Exemplo de saída no terminal
+A fotossíntese é o processo que as plantas usam para criar seu próprio alimento a partir da luz solar, água e gás carbônico.
+```
+
+---
+
+## Contribuição
+
+Se quiser contribuir com o projeto, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+
+## Licença
+
+Este projeto está sob a licença \< inserir a licença, ex: MIT \>.
+
+---
+
+**Instruções para o Vídeo:**
+
+1.  Faça o upload do seu vídeo explicativo para o YouTube.
+2.  Copie o **ID do vídeo** do YouTube. Ele é aquela sequência de letras e números que aparece na URL depois de `v=`. Por exemplo, em `https://www.youtube.com/watch?v=abcd12345`, o ID do vídeo é `abcd12345`.
+3.  Substitua as duas ocorrências de `\<SEU_ID_DO_VIDEO_AQUI>` no `README` pelo ID do seu vídeo.
