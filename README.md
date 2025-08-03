@@ -15,7 +15,7 @@ Aqui estão os membros do nosso time. Juntos, estamos movendo mentes e criando s
   *  Patricia Queiroz 
   *  Victória Mignon
   *  André
-  *  Edmilson
+  *  Edmilson Júnior
   *  Victória Marques 
   *  Ana Técia 
 
@@ -56,3 +56,43 @@ Este repositório utiliza e aplica as seguintes tecnologias:
   * **APIs Web**: Interação com serviços externos.
   * **JavaScript**: A linguagem de programação principal.
   * **Markdown**: Para a documentação.
+    
+-----
+
+🔎 CLI de Consulta de CEP
+Uma ferramenta simples e interativa de linha de comando (CLI) construída com Node.js para buscar informações de endereço usando a API pública do ViaCEP.
+
+🚀 Funcionalidades
+Consulta Rápida: Forneça o CEP diretamente como um argumento para uma busca instantânea.
+
+Modo Interativo: Se nenhum CEP for fornecido, a ferramenta pedirá o CEP no terminal.
+
+Validação: Verifica se o CEP tem 8 dígitos numéricos antes de fazer a busca.
+
+Exibição Formatada: Apresenta os dados de endereço (Rua, Bairro, Cidade, Estado) de forma clara no terminal.
+
+⚙️ Pré-requisitos
+Certifique-se de ter o Node.js instalado em sua máquina. A versão 18 ou superior é recomendada, pois o projeto usa a função fetch nativa.
+
+📥 Como Usar
+Siga estes passos para executar a CLI em sua máquina.
+
+Terminal
+
+npm install -y e 
+npm link
+
+Terminal
+
+cep-checker 01001000
+Exemplo de saída:
+
+Endereço para o CEP 01001000:
+--------------------------
+Rua:      Praça da Sé
+Bairro:   Sé
+Cidade:   São Paulo
+Estado:   SP
+
+📄 Licença
+Este projeto está sob a licença ISC.
