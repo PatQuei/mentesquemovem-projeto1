@@ -12,12 +12,12 @@ Este repositório é um espaço colaborativo onde estamos aplicando os conhecime
 
 Aqui estão os membros do nosso time. Juntos, estamos movendo mentes e criando soluções\!
 
-  * \< Patricia Queiroz \>
-  * \< Victória Mignon \>
-  * \< André  \>
-  * \< Edmilson \>
-  * \< Victória Marques \>
-  * \< Ana Técia \>
+  *  Patricia Queiroz 
+  *  Victória Mignon
+  *  André
+  *  Edmilson
+  *  Victória Marques 
+  *  Ana Técia 
 
 ## Projetos
 
