@@ -22,9 +22,11 @@ Siga estes passos para configurar e executar a sua CLI.
 
 ### Veja como funciona\!
 
-[](https://youtu.be/8PJFyPdj3U8)
 
-> **Clique na imagem acima para assistir a um breve vídeo demonstrando a instalação e o uso da CLI.** > _(Substitua `\<8PJFyPdj3U8>` pelo ID do seu vídeo no YouTube)_
+
+https://github.com/user-attachments/assets/3da7253a-41b9-4c54-8409-1736819da40f
+
+
 
 ### 1\. Pré-requisitos
 
