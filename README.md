@@ -30,8 +30,8 @@ Cada pasta neste repositório contém um projeto de CLI. Para saber mais sobre u
 
   * **\< Nome do Outro Projeto \>**
 
-      * **Descrição:** \< Breve descrição do projeto \>
-      * **Pasta:** [`/<pasta-do-projeto>`](https://www.google.com/search?q=/%3Cpasta-do-projeto%3E)
+      * **Descrição:** CLI CEP
+      * **Pasta:** [`/CLI CEP`](https://github.com/PatQuei/mentesquemovem-projeto1/tree/main/CLI%20CEP)
 
   * **\< Nome do Outro Projeto \>**
 
