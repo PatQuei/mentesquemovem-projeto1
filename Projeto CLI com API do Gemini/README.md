@@ -80,15 +80,3 @@ A fotossíntese é o processo que as plantas usam para criar seu próprio alimen
 ## Contribuição
 
 Se quiser contribuir com o projeto, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
-
-## Licença
-
-Este projeto está sob a licença \< inserir a licença, ex: MIT \>.
-
----
-
-**Instruções para o Vídeo:**
-
-1.  Faça o upload do seu vídeo explicativo para o YouTube.
-2.  Copie o **ID do vídeo** do YouTube. Ele é aquela sequência de letras e números que aparece na URL depois de `v=`. Por exemplo, em `https://www.youtube.com/watch?v=abcd12345`, o ID do vídeo é `abcd12345`.
-3.  Substitua as duas ocorrências de `\<SEU_ID_DO_VIDEO_AQUI>` no `README` pelo ID do seu vídeo.
