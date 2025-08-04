@@ -28,14 +28,14 @@ Cada pasta neste repositório contém um projeto de CLI. Para saber mais sobre u
       * **Descrição:** Uma CLI que se conecta à API do Google Gemini para gerar respostas de IA no terminal.
       * **Pasta:** [`/Projeto CLI com API do Gemini`](https://github.com/PatQuei/mentesquemovem-projeto1/tree/main/Projeto%20CLI%20com%20API%20do%20Gemini)
 
-  * **\< Nome do Outro Projeto \>**
+  * **CLI CEP**
 
       * **Descrição:** CLI CEP
       * **Pasta:** [`/CLI CEP`](https://github.com/PatQuei/mentesquemovem-projeto1/tree/main/CLI%20CEP)
 
-  * **\< Nome do Outro Projeto \>**
+  * **CLI para conversão de criptomoedas**
 
-      * **Descrição:** \< Breve descrição do projeto \>
+      * **Descrição:** CLI para conversão de criptomoedas
       * **Pasta:** [`/CLI para conversão de criptomoedas`](https://github.com/PatQuei/mentesquemovem-projeto1/tree/main/CLI%20para%20convers%C3%A3o%20de%20criptomoedas)
 
 ## Como Contribuir
